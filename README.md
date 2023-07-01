@@ -7,6 +7,8 @@ An Android malware detection website performs features like Cuckoo Sandbox, chec
 - [khangtictoc](https://github.com/khangtictoc)
 - [ndxbinh1922001](https://github.com/ndxbinh1922001)
 
+Our research work: [Android malware detection system using NLP model](https://github.com/khangtictoc/Thesis.Text_base_Android_malware_classification.Model)
+
 Link for quick demo: https://youtu.be/xLlwO3kqXB4
 
 Techstack:
