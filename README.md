@@ -20,6 +20,8 @@ Techstack:
 
 Web UI:  
 
+![image](https://github.com/khangtictoc/Thesis-Demo/assets/48288606/29b5c054-722e-4dac-984e-95ef68dab1d0)
+
 
 ## Install & Set up:
 
